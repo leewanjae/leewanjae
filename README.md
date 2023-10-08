@@ -1,4 +1,4 @@
-## Lee wan jae
+## 이완재
 
 <p>
 <img src="https://img.shields.io/badge/iOS-2E2E2E?style=flat-square&logo=apple&logoColor=white"/>&nbsp;
