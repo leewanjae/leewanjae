@@ -3,7 +3,6 @@
 <p>
 <img src="https://img.shields.io/badge/iOS-2E2E2E?style=flat-square&logo=apple&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Swift-FF4000?style=flat-square&logo=swift&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
