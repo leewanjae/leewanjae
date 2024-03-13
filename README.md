@@ -8,8 +8,8 @@
 
 🧑🏻‍💻
 ```
-네이버 클라우드 AIaas 개발자 5기
-Apple Developer Academy @ POSTECH 3기 Batch 2
+NaverCloud AIaas Web Developer 5기
+Apple Developer Academy @ POSTECH 3기
 ```
 🏆
 ```
