@@ -8,7 +8,6 @@
 
 🧑🏻‍💻
 ```
-NaverCloud AIaas Web Developer 5기
 Apple Developer Academy @ POSTECH 3기
 ```
 🏆
