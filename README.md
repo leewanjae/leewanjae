@@ -15,9 +15,21 @@ Apple Developer Academy @ POSTECH 3기
 제11회 범정부 공공데이터 창업경진대회 왕중왕전: 🏅국무총리상(최우수상)
 2023 사회보장정보와 공공ㆍ민간 빅데이터를 활용한 국민행복서비스 발굴ㆍ창업경진대회: 🏅보건복지부장관상(대상)
  ```
+- 블로그 : [https://blog.naver.com/ggmj-](https://blog.naver.com/ggmj-) <br/>
 
   
 
 ---
-
-- 블로그 : [https://blog.naver.com/ggmj-](https://blog.naver.com/ggmj-)
+### App
+<p align="leading">
+  <a href="https://apps.apple.com/kr/app/%EB%94%A9%EB%8F%99/id6517362115">
+    <img width="120" height="120" alt="스크린샷 2024-07-22 11 09 04" src="https://github.com/user-attachments/assets/f1625fc4-fbf9-4854-9481-ec655789da4d">
+  </a>
+ <Strong>딩동!</Strong>
+</p>
+<p align="leading">
+  <a href="https://apps.apple.com/kr/app/hearf/id6503036359">
+    <img width="120" height="120" alt="스크린샷 2024-07-22 11 09 20" src="https://github.com/user-attachments/assets/4b4fa729-e7d2-407f-aeb4-9c986b54585e">
+  </a>
+ <Strong>Hearf</Strong>
+</p>
