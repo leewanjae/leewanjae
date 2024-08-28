@@ -15,7 +15,7 @@ Apple Developer Academy @ POSTECH 3기
 ```
 제11회 범정부 공공데이터 창업경진대회 왕중왕전: 🏅국무총리상(최우수상)
 2023 사회보장정보와 공공ㆍ민간 빅데이터를 활용한 국민행복서비스 발굴ㆍ창업경진대회: 🏅보건복지부장관상(대상)
-2024 JUNCTION ASIA 2024 Final Winner
+2024 Junction Asia 2024: 🏅경북도지사상 🏅포스텍총장상
  ```
 - 블로그 : [https://blog.naver.com/ggmj-](https://blog.naver.com/ggmj-) <br/>
 
