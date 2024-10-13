@@ -18,14 +18,3 @@ Apple Developer Academy @ POSTECH 3기
 2024 Junction Asia 2024: 🏅경북도지사상 🏅포스텍총장상
  ```
 - 블로그 : [https://blog.naver.com/ggmj-](https://blog.naver.com/ggmj-) <br/>
-
-  
-
----
-### App
-<a href="https://apps.apple.com/kr/app/hearf/id6503036359" style="text-decoration: none;">
-    <img width="120" height="120" alt="Hearf로고" src="https://github.com/user-attachments/assets/4b4fa729-e7d2-407f-aeb4-9c986b54585e">
-</a>
-<a href="https://apps.apple.com/kr/app/%EB%94%A9%EB%8F%99/id6517362115" style="margin-left: 20px; text-decoration: none;">
-    <img width="120" height="120" alt="딩동!로고 2024-07-22 11 09 04" src="https://github.com/user-attachments/assets/f1625fc4-fbf9-4854-9481-ec655789da4d">
-</a>
