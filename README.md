@@ -6,7 +6,10 @@
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
-
+🏢
+```
+InoFriends: iOS Developer
+```
 🧑🏻‍💻
 ```
 Naver Cloud Web Developer 5기
