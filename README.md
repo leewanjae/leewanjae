@@ -2,18 +2,20 @@
 
 <p>
 <img src="https://img.shields.io/badge/iOS-2E2E2E?style=flat-square&logo=apple&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Swift-FF4000?style=flat-square&logo=swift&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white"/>&nbsp;
+</p> -->
 
 🏢
 ```
-InoFriends: iOS Developer
+InoFriends
+iOS Developer 2024.12 ~ ing
 ```
 🧑🏻‍💻
 ```
 Naver Cloud Web Developer 5기
 Apple Developer Academy @ POSTECH 3기
+NewlearnSoft: 합격노트
 ```
 🏆
 ```
@@ -22,4 +24,3 @@ Apple Developer Academy @ POSTECH 3기
 2024 Junction Asia 2024: 🏅경북도지사상 🏅포스텍총장상
 2024 Junction Finland 2024: 🎫Golden Ticket
  ```
-- 블로그 : [https://blog.naver.com/ggmj-](https://blog.naver.com/ggmj-) <br/>
