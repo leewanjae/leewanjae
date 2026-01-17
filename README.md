@@ -3,7 +3,7 @@
 <p>
 <img src="https://img.shields.io/badge/iOS-2E2E2E?style=flat-square&logo=apple&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>&nbsp;
-</p> -->
+</p>
 
 💻 iOS Developer
 ```
